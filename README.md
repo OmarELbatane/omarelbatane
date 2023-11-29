@@ -17,7 +17,7 @@
 
 <h2> 📜 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [SOC Level 1 (On going)](https://tryhackme.com/paths)
 - [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-701MQMKDN9.png)
 
 
