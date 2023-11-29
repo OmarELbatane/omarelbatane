@@ -18,7 +18,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Administration </b>
 
-<h2> 📜 Certifications</h2>
+<h2> 📜 CTF</h2>
 
 - [SOC Level 1 (On going)](https://tryhackme.com/paths)
 - [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-701MQMKDN9.png)
