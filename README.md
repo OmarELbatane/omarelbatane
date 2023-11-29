@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omar! 
+<h1>Hi, I'm Omar! Hope you enjoy 
   <!-- <br/><a href="https://github.com/OmarELbatane">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 -->
   
