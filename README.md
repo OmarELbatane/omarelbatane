@@ -20,7 +20,7 @@
 
 <h2> 🏴 CTF</h2>
 
-- [Pickle Rick](https://tryhackme.com/paths)
+- [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
 
   
 <h2> 📜 Certifications</h2>
