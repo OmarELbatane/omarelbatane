@@ -20,8 +20,8 @@
 
 <h2> 🏴 CTF</h2>
 
-- [SOC Level 1 (On going)](https://tryhackme.com/paths)
-- [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-701MQMKDN9.png)
+- [Pickle Rick](https://tryhackme.com/paths)
+
   
 <h2> 📜 Certifications</h2>
 
