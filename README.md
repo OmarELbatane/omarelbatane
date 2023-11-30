@@ -21,6 +21,7 @@
 <h2> 🏴 CTF</h2>
 
 - [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
+- [BabyEncryption]
 
   
 <h2> 📜 Certifications</h2>
