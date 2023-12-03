@@ -15,8 +15,10 @@
   
 <h2> 📜 Certifications</h2>
 
-- [SOC Level 1 (On going)](https://tryhackme.com/paths)
-- [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-701MQMKDN9.png)
+- <b> Splunk </b>
+- <b> Tryhackme </b>
+  - [SOC Level 1 (On going)](https://tryhackme.com/paths)
+  - [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-701MQMKDN9.png)
 
 
 <h2>📰 Academic Projects reports </h2>
@@ -25,8 +27,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Crackme</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b> Authentication for SSH </b>
-
+- <b> Projet tutoré  </b>
+  - [Practical Privacy-Preserving Authentication for SSH](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
