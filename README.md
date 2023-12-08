@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
 - <b>Python programs </b>
-  - [hello](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
+  - [OWASP Risk Rating](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
 
 <h2> 🏴 CTF</h2>
 
