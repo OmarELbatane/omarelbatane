@@ -4,8 +4,8 @@
   
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python programs </b>
+  - [hello](webbrowser.open_new("https://owasp.org/www-community/OWASP_Risk_Rating_Methodology"):)
 
 <h2> 🏴 CTF</h2>
 
