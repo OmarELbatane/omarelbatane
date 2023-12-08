@@ -7,10 +7,12 @@
 - <b>Python programs </b>
   - [OWASP Risk Rating](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
 
-<h2> 🏴 CTF</h2>
+<h2> 🏴 CTF </h2>
 
-- [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
-- [BabyEncryption](https://github.com/OmarELbatane/BabyEncryption)
+- <b> Web </b>
+  - [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
+- <b> Crypto </b>
+  - [BabyEncryption](https://github.com/OmarELbatane/BabyEncryption)
 
   
 <h2> 📜 Certifications</h2>
