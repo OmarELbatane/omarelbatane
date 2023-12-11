@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
 - <b>Python programs </b>
-  - [OWASP Risk Calculator](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
+  - [OWASP Risk Calculator](https://github.com/OmarELbatane/OwaspCalculator)
 
 <h2> 🏴 CTF </h2>
 
