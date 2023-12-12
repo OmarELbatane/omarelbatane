@@ -1,4 +1,5 @@
-<h1>Hi, I'm Omar! Hope you enjoy 
+<h1> Omar EL BATANE's Cybersecurity Projects Portfolio
+  
   <!-- <br/><a href="https://github.com/OmarELbatane">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 -->
   
