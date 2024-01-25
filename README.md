@@ -1,4 +1,4 @@
-<h1> Omar EL BATANE's Cybersecurity Projects Portfolio
+<h1> Cybersecurity Projects Portfolio
   
   <!-- <br/><a href="https://github.com/OmarELbatane">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 -->
@@ -10,7 +10,7 @@
 
 <h2> 🏴 CTF </h2>
 
-- <b> Web </b>
+- <b> Web Pentest </b>
   - [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
 - <b> Crypto </b>
   - [BabyEncryption](https://github.com/OmarELbatane/BabyEncryption)
