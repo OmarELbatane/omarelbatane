@@ -9,7 +9,9 @@
   - [OWASP Risk Calculator](https://github.com/OmarELbatane/OwaspCalculator)
 
 <h2> 🏴 CTF </h2>
-
+- <b> ItsBitsy </b>
+a simple challenge to investigate an alert by IDS regarding a potential C2 communication using ELK.
+  - [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
 - <b> Web Pentest </b>
   - [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
 - <b> Crypto </b>
