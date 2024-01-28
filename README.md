@@ -9,10 +9,13 @@
   - [OWASP Risk Calculator](https://github.com/OmarELbatane/OwaspCalculator)
 
 <h2> 🏴 CTF </h2>
-- <b> ItsBitsy </b>
-  - [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
+
+- <b>ItsBitsy </b>
+  - [A challenge to investigate an alert by IDS regarding a potential C2 communication using ELK.](https://github.com/OmarELbatane/Pickle-Rick)
+
 - <b> Web Pentest </b>
   - [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
+
 - <b> Crypto </b>
   - [BabyEncryption](https://github.com/OmarELbatane/BabyEncryption)
 
@@ -21,6 +24,7 @@
 
 <!--- <b> Splunk </b> -->
 - <b> Tryhackme </b>
+  - 
   - [SOC Level 1 (On going)](https://tryhackme.com/paths)
   - [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-701MQMKDN9.png)
 
