@@ -10,8 +10,8 @@
 
 <h2> 🏴 CTF </h2>
 
-- <b>ItsBitsy </b>
-  - [A challenge to investigate an alert by IDS regarding a potential C2 communication using ELK.](https://github.com/OmarELbatane/Pickle-Rick)
+- <b>ELK </b>
+  - [ItsBitsy : A challenge to investigate an alert by IDS regarding a potential C2 communication using ELK.](https://github.com/OmarELbatane/Pickle-Rick)
 
 - <b> Web Pentest </b>
   - [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
