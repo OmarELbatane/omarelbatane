@@ -10,8 +10,11 @@
 
 <h2> 🏴 CTF </h2>
 
+- <b> Splunk <b>
+  - [Investigate anomalies using Splunk.](https://github.com/OmarELbatane/splunk1/blob/main/README.md)
+  
 - <b>ELK </b>
-  - [ItsBitsy : A challenge to investigate an alert by IDS regarding a potential C2 communication using ELK.](https://github.com/OmarELbatane/Pickle-Rick)
+  - [A challenge to investigate an alert by IDS regarding a potential C2 communication using ELK.](https://github.com/OmarELbatane/Pickle-Rick)
 
 - <b> Web Pentest </b>
   - [Pickle Rick](https://github.com/OmarELbatane/Pickle-Rick)
